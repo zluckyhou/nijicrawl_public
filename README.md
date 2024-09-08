@@ -2,7 +2,9 @@
 
 ![NijiCrawl Logo](/static/android-chrome-192x192.png)
 
-NijiCrawl revolutionizes web scraping with cutting-edge AI technology. Extract valuable data from any website with just a few clicks. Perfect for researchers, marketers, and data enthusiasts.
+[NijiCrawl](https://nijicrawl-859552471814.us-east1.run.app/) revolutionizes web scraping with cutting-edge AI technology. Extract valuable data from any website with just a few clicks. Perfect for researchers, marketers, and data enthusiasts.
+
+🌐 **Try it now**: [https://nijicrawl-859552471814.us-east1.run.app/](https://nijicrawl-859552471814.us-east1.run.app/)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3YMOKZ)
 
