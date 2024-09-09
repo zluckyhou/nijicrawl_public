@@ -22,6 +22,10 @@
 3. **Run**: Click "Run" and watch as NijiCrawl fetches your desired information.
 
 ## 🔮 Upcoming Features
+- [ ] API Access:
+  - [ ] Public API for URL content extraction and processing
+  - [ ] API documentation for seamless integration
+  - [ ] Support for customized prompts via API
 
 - [ ] Preset Functions:
   - [ ] Summary generation
@@ -35,6 +39,7 @@
 
 - [x] Basic feature - Extract info from website
 - [x] Support text and JSON output
+- [ ] Provide public API access
 - [ ] Develop SEO optimization tool
 - [ ] Implement preset functions
 - [ ] Develop sample cards
