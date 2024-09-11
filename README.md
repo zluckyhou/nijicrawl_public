@@ -22,6 +22,7 @@
 3. **Run**: Click "Run" and watch as NijiCrawl fetches your desired information.
 
 ## 🔮 Upcoming Features
+- [ ] Stylish Homepage: A visually appealing and interactive homepage to enhance user experience
 - [ ] API Access:
   - [ ] Public API for URL content extraction and processing
   - [ ] API documentation for seamless integration
@@ -31,16 +32,17 @@
   - [ ] Summary generation
   - [ ] Translation capabilities
   - [ ] In-depth explanations
-- [ ] SEO Optimization: Analyze and optimize any website for better search engine rankings
 - [ ] Sample Cards: Quick-start templates for common scraping tasks
 - [ ] Chrome Extension: Seamless integration with your browsing experience
 
 ## 🏗 Project Roadmap
 
+- [ ] Stylish Homepage: Develop and deploy a visually engaging homepage
 - [x] Basic feature - Extract info from website
 - [x] Support text and JSON output
+- [x] Develop TKD generator for any website
+- [x] support markdown render for results
 - [ ] Provide public API access
-- [ ] Develop SEO optimization tool
 - [ ] Implement preset functions
 - [ ] Develop sample cards
 - [ ] Launch Chrome extension
